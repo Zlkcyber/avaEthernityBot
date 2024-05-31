@@ -1,5 +1,5 @@
 # AVA ETHERNITY auto add time Bot
-[![App Screenshot](https://raw.githubusercontent.com/Zlkcyber/avaEthernityBot/avabot.png)](https://raw.githubusercontent.com/Zlkcyber/avaEthernityBot/avabot.png)
+[![App Screenshot](https://raw.githubusercontent.com/Zlkcyber/avaEthernityBot/main/avabot.png)](https://raw.githubusercontent.com/Zlkcyber/avaEthernityBot/main/avabot.png)
 
 
 This script automates adding time in the ava ETHERNITY bot. It just need telegram id you want to adding time
